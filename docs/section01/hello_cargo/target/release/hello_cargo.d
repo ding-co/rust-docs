@@ -1,0 +1,1 @@
+/Users/devcra/Desktop/personal/github/documents/rust/rust-docs/docs/section01/part02/hello_cargo/target/release/hello_cargo: /Users/devcra/Desktop/personal/github/documents/rust/rust-docs/docs/section01/part02/hello_cargo/src/main.rs
