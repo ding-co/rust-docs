@@ -1,0 +1,1 @@
+/Users/devcra/Desktop/personal/github/documents/rust/rust-docs/docs/section03/no_type_annotations/target/debug/no_type_annotations: /Users/devcra/Desktop/personal/github/documents/rust/rust-docs/docs/section03/no_type_annotations/src/main.rs
