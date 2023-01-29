@@ -1,0 +1,1 @@
+/Users/devcra/Desktop/personal/github/documents/rust/rust-docs/docs/section04/ownership/target/debug/ownership: /Users/devcra/Desktop/personal/github/documents/rust/rust-docs/docs/section04/ownership/src/main.rs
