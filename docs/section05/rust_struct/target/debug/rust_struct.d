@@ -1,0 +1,1 @@
+/Users/devcra/Desktop/personal/github/documents/rust/rust-docs/docs/section05/rust_struct/target/debug/rust_struct: /Users/devcra/Desktop/personal/github/documents/rust/rust-docs/docs/section05/rust_struct/src/main.rs

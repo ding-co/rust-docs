@@ -1,0 +1,1 @@
+/Users/devcra/Desktop/personal/github/documents/rust/rust-docs/docs/section05/rectangles/target/debug/rectangles: /Users/devcra/Desktop/personal/github/documents/rust/rust-docs/docs/section05/rectangles/src/main.rs
