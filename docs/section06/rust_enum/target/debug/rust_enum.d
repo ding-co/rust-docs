@@ -1,0 +1,1 @@
+/Users/devcra/Desktop/personal/github/documents/rust/rust-docs/docs/section06/rust_enum/target/debug/rust_enum: /Users/devcra/Desktop/personal/github/documents/rust/rust-docs/docs/section06/rust_enum/src/main.rs
