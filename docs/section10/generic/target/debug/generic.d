@@ -1,0 +1,1 @@
+/Users/devcra/Desktop/personal/github/documents/rust/rust-docs/docs/section10/generic/target/debug/generic: /Users/devcra/Desktop/personal/github/documents/rust/rust-docs/docs/section10/generic/src/main.rs
