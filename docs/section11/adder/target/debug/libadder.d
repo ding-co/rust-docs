@@ -1,0 +1,1 @@
+/Users/devcra/Desktop/personal/github/documents/rust/rust-docs/docs/section11/adder/target/debug/libadder.rlib: /Users/devcra/Desktop/personal/github/documents/rust/rust-docs/docs/section11/adder/src/lib.rs
